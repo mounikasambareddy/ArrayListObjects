@@ -18,6 +18,7 @@ public class C extends AppCompatActivity
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 Log.d("monika","--->");
+        Log.d("monika","--->");
 
     }
 }
